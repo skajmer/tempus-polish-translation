@@ -609,6 +609,14 @@
     <string name="settings_sync_starred_tracks_for_offline_use_summary">Jeżeli włączone, utwory oznaczone gwiazdką będą pobrane do użycia offline.</string>
     <string name="settings_sync_starred_tracks_for_offline_use_title">Zsynchronizuj utwory oznaczone gwiazdką do użycia offline</string>
 	<string name="settings_permissions">Uprawnienia aplikacji</string>
+	<string name="settings_export_title">Eksport ustawień</string>
+    <string name="settings_export_summary">Zapisuje twoje ustawienia do pliku. Dane logowania do serwerów nie są dołączane.</string>
+    <string name="settings_import_title">Import ustawień</string>
+    <string name="settings_import_summary">Przywraca ustawienia z wyeksportowanego pliku</string>
+    <string name="settings_exported">Ustawienia wyeksportowane</string>
+    <string name="settings_export_failed">Nie udało się zapisać pliku ustawień</string>
+    <string name="settings_imported">Zaimportowano %d ustawień</string>
+    <string name="settings_import_invalid">To nie jest plik ustawień Tempus</string>
 	<string name="settings_network_playback_title">Odtwarzanie sieciowe</string>
     <string name="settings_upnp_title">Odtwarzacze UPnP / DLNA</string>
     <string name="settings_upnp_summary">Znajdź i odtwarzaj na odtwarzaczach UPnP i DLNA w twojej sieci. Szuka tylko wtedy gdy, wybieranie urządzenia jest otwarte.</string>
